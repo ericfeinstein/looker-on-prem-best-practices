@@ -11,5 +11,5 @@
 
 ## Internal MySQL Database
 
-* When do i move from Hypersql to MySQL
+* [When do i move from Hypersql to MySQL](internal-mysql-database/when-do-i-move-from-hypersql-to-mysql.md)
 
