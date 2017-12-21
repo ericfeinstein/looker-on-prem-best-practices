@@ -3,12 +3,12 @@
 ## General Tips
 
 * [Introduction](README.md)
-* [What is the standalone Architecture](first-question.md)
 * [How can I do X?](second-question.md)
 
 ## Architecture Options
 
 * [Standalone Architecture](standalone-architecture.md)
+* [What is the standalone Architecture](first-question.md)
 * [What are Looker's Server Specifications](general-setup.md)
 
 ## Internal MySQL Database
