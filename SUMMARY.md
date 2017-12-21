@@ -10,6 +10,7 @@
 * [Standalone Architecture](standalone-architecture.md)
 * [What is the standalone Architecture](first-question.md)
 * [What are Looker's Server Specifications](general-setup.md)
+* [What size machine to use?](what-size-vm-do-i-need.md)
 
 ## Internal MySQL Database
 
