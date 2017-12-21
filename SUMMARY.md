@@ -15,9 +15,9 @@
 
 * [When do i move from Hypersql to MySQL](internal-mysql-database/when-do-i-move-from-hypersql-to-mysql.md)
 * [MySQL Tips](mysql-tips.md)
-* Backing up Looker History
+* [Backing up Looker History](internal-mysql-database/backing-up-looker-history.md)
 
 ## Performance
 
-* Performance Monitoring
+* [Performance Monitoring](performance/performance-monitoring.md)
 
