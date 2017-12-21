@@ -18,7 +18,7 @@ Set appropriate caching behavior:
 
 - Set `query_cache_size` to something reasonable (16 or more megabytes)
 
--- http://dev.mysql.com/doc/refman/5.7/en/host-cache.html
+- - http://dev.mysql.com/doc/refman/5.7/en/host-cache.html
 
 Consider updating the buffer_pool_size:
 
