@@ -15,7 +15,7 @@
 
 ## Internal MySQL Database
 
-* [When do i move from Hypersql to MySQL](internal-mysql-database/when-do-i-move-from-hypersql-to-mysql.md)
+* [When do I move from Hypersql to MySQL](internal-mysql-database/when-do-i-move-from-hypersql-to-mysql.md)
 * [MySQL Tips](mysql-tips.md)
 * [Backing up Looker History](internal-mysql-database/backing-up-looker-history.md)
 
