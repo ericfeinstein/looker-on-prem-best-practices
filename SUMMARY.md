@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [How can I do X?](second-question.md)
+* [upgrading looker](upgrading-looker.md)
 
 ## Architecture Options
 
@@ -21,4 +22,8 @@
 ## Performance
 
 * [Performance Monitoring](performance/performance-monitoring.md)
+
+## Server Security
+
+* [What ports do i open/lock down?](server-security/what-ports-do-i-openlock-down.md)
 
